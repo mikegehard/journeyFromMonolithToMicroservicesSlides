@@ -1,0 +1,56 @@
+{
+  "title": "The Journey from Monolith to Microservices: A Guided Adventure",
+
+  "slides":[
+    "title.md",
+    [
+      "aboutMe.md",
+      "coins.md",
+      "aboutYou.md"
+    ],
+    "tocBackground.md",
+    [
+      "background/barinek.md",
+      "background/appcontinuum.md",
+      "background/clientProject.md",
+      "background/goals.md",
+      "background/currentState.md",
+      "background/frown.md",
+      "background/itDepends.md"
+    ],
+    "tocWhich.md",
+    [
+      "which/whichComesFirst.md"
+    ],
+    "tocPath.md",
+    [
+      "path/safetyFirst.md",
+      "path/highWire.md",
+      "path/apiTests.md",
+      "path/blackBox.md",
+      "path/typesOfTests.md",
+      "path/apiTests1.md",
+      "path/seeApplicationDomain.md",
+      "path/technicalBoundaries.md",
+      "path/domainBoundaries.md",
+      "path/seeApplicationDomain1.md",
+      "path/components.md",
+      "path/v1.md",
+      "path/componentDatabases.md",
+      "path/components1.md",
+      "path/firstMicroservice.md",
+      "path/v2.md",
+      "path/firstMicroservice1.md",
+      "path/serviceDiscovery.md",
+      "path/v3.md",
+      "path/serviceDiscovery1.md",
+      "path/circuitBreaker.md",
+      "path/dominoes.md",
+      "path/v4.md",
+      "path/circuitBreaker1.md",
+      "path/nextSteps.md"
+    ],
+    "resources.md",
+    "thanks.md"
+  ]
+}
