@@ -1,9 +1,13 @@
 ## Resources
 
-* [https://medium.com/@mikegehard/evolving-from-monolith-to-microservices-81c6b28b058c](Tech partitioning vs Domain partitioning)
+* https://github.com/mikegehard/journeyFromMonolithToMicroservicesSlides
 
-* [http://www.appcontinuum.io/](Application continuum)
+* https://github.com/mikegehard/journeyFromMonolithToMicroservices
 
-* [http://martinfowler.com/microservices](Microservices Resource Guide)
+* https://medium.com/@mikegehard/evolving-from-monolith-to-microservices-81c6b28b058c
 
-* [http://projects.spring.io/spring-cloud/](Spring Cloud)
+* http://www.appcontinuum.io/
+
+* http://projects.spring.io/spring-cloud/
+
+* http://martinfowler.com/microservices
