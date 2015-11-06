@@ -28,6 +28,8 @@
       "path/highWire.md",
       "path/apiTests.md",
       "path/blackBox.md",
+      "path/endState.md",
+      "path/blackBoxTests.md",
       "path/typesOfTests.md",
       "path/apiTests1.md",
       "path/seeApplicationDomain.md",

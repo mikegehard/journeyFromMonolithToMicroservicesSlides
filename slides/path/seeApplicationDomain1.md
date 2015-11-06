@@ -4,8 +4,10 @@ Goal: Be able to see application domain in your top level directories <!-- .elem
 
 Outcomes:
 
-* Minimizes the number of directories that I have to look through to make changes to a domain concept. <!-- .element: class="fragment highlight-current-red"  data-fragment-index="1" -->
+* Minimizes the number of directories that I have to look through to make changes to a domain concept (aka bounded context). <!-- .element: class="fragment highlight-current-red"  data-fragment-index="1" -->
 
-* Easier to change bounded context boundaries in one directory. <!-- .element: class="fragment highlight-current-red"  data-fragment-index="2" -->
+* Less costly to evolve bounded contexts and experiment with boundaries. <!-- .element: class="fragment highlight-current-red"  data-fragment-index="2" -->
 
-* Your application could spend some time here as the bounded contexts age and mature...like a fine French wine.<!-- .element: class="fragment highlight-current-red"  data-fragment-index="3" -->
+* Delaying architecture decisions. <!-- .element: class="fragment highlight-current-red"  data-fragment-index="3" -->
+
+* Your application could spend some time here as the bounded contexts age and mature...like a fine French wine.<!-- .element: class="fragment highlight-current-red"  data-fragment-index="4" -->

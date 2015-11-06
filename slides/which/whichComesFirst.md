@@ -1,6 +1,6 @@
 ## Which comes first?
 
-* Assumption: *Monolith => Microservices* <!-- .element: class="fragment highlight-current-red"  data-fragment-index="1" -->
+* Everyone's assumption: *Monolith => Microservices* <!-- .element: class="fragment highlight-current-red"  data-fragment-index="1" -->
 
 * Personally trending towards *well structured monolith first* <!-- .element: class="fragment highlight-current-red"  data-fragment-index="2" -->
 
