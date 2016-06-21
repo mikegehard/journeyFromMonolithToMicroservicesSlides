@@ -1,4 +1,4 @@
-## Thank you! / Tack! / Questions?
+## Thank you! / Questions?
 
 @mikegehard
 
