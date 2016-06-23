@@ -4,8 +4,6 @@
 
 * Change up the communication interface...maybe use a message queue?<!-- .element: class="fragment highlight-current-red"  data-fragment-index="2" -->
 
-* Distributed configuration?<!-- .element: class="fragment highlight-current-red"  data-fragment-index="3" -->
-
 * Don't do anything and continue to make money.<!-- .element: class="fragment highlight-current-red"  data-fragment-index="4" -->
 
 * The choice is up to you!<!-- .element: class="fragment highlight-current-red"  data-fragment-index="5" -->

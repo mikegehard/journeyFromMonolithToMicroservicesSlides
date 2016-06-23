@@ -2,6 +2,6 @@
 
 Additional Costs:
 
-* UMS now needs to know how to contact the billing service<!-- .element: class="fragment highlight-current-red"  data-fragment-index="1" -->
+* Billing now needs to know how to contact the email service<!-- .element: class="fragment highlight-current-red"  data-fragment-index="1" -->
 
-* Network communication between UMS and billing service could be flaky<!-- .element: class="fragment highlight-current-red"  data-fragment-index="2" -->
+* Network communication between billing and email could be flaky<!-- .element: class="fragment highlight-current-red"  data-fragment-index="2" -->

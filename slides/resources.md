@@ -1,15 +1,13 @@
 ## Resources
 
-* https://github.com/mikegehard/journeyFromMonolithToMicroservicesSlides
+* [Some musings from me about application structure](https://medium.com/@mikegehard/evolving-from-monolith-to-microservices-81c6b28b058c)
 
-* https://github.com/mikegehard/journeyFromMonolithToMicroservices
+* [Application Continuum by Mike Barinek](http://www.appcontinuum.io/)
 
-* https://medium.com/@mikegehard/evolving-from-monolith-to-microservices-81c6b28b058c
+* [Modular Monoliths video by Simon Brown](https://vimeo.com/146876312)
 
-* http://www.appcontinuum.io/
+* [Building Microservices Book by Sam Newman](http://shop.oreilly.com/product/0636920033158.do)
 
-* https://vimeo.com/146876312
+* [Microservice Musings from Martin Fowler](http://martinfowler.com/microservices)
 
-* http://projects.spring.io/spring-cloud/
-
-* http://martinfowler.com/microservices
+* [Spring Cloud](http://projects.spring.io/spring-cloud/)
